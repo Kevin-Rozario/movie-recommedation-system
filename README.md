@@ -11,8 +11,6 @@ This is a full-stack movie recommendation system that allows users to discover n
 - **Scalable Backend**: The backend is built with Node.js and Express, designed to handle a large number of requests.
 - **Vector-Based Search**: Recommendations are powered by Qdrant, a high-performance vector database, ensuring fast and accurate results.
 
-https://github.com/user-attachments/assets/19240742-b9e4-42b1-9128-2c2626011e74
-
 ## Technologies Used
 
 - **Frontend**: React, TypeScript, Vite, Shadcn UI, Tailwind CSS
